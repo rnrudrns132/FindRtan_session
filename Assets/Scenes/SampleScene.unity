@@ -441,7 +441,6 @@ MonoBehaviour:
   timeText: {fileID: 1743125129}
   firstCard: {fileID: 0}
   secondCard: {fileID: 0}
-  CardCnt: 0
   EndText: {fileID: 157040410}
 --- !u!4 &1672969609
 Transform:
